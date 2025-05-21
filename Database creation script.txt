@@ -1,0 +1,22 @@
+create database dbLayers
+
+go
+
+use dbLayers
+
+go
+
+create table Product(
+IdProduct int primary key identity,
+Name varchar(50),
+Price int
+)
+
+go
+
+insert into Product(Name,Price) values
+('Monitor hd', 500),
+('Microfono hyper', 300)
+
+
+select * from Product

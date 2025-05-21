@@ -1,0 +1,162 @@
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\appsettings.Development.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\appsettings.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.staticwebassets.endpoints.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.exe
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.deps.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.pdb
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Azure.Core.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Azure.Identity.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.ClientModel.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Memory.Data.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\scopedcss\bundle\DemoVerticalSlice.styles.css
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.build.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.development.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.DemoVerticalSlice.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.DemoVerticalSlice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.build.DemoVerticalSlice.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DemoVerticalSlice.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DemoVerticalSlice.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.pack.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVert.0710178B.Up2Date
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\refint\DemoVerticalSlice.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.pdb
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.genruntimeconfig.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Videos\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\ref\DemoVerticalSlice.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\appsettings.Development.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\appsettings.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.staticwebassets.endpoints.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.exe
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.deps.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\DemoVerticalSlice.pdb
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Azure.Core.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Azure.Identity.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Bcl.Cryptography.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.ClientModel.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Memory.Data.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.MvcApplicationPartsAssemblyInfo.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\scopedcss\bundle\DemoVerticalSlice.styles.css
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.build.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.development.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.DemoVerticalSlice.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.DemoVerticalSlice.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.build.DemoVerticalSlice.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.DemoVerticalSlice.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.DemoVerticalSlice.props
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.pack.json
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVert.0710178B.Up2Date
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\refint\DemoVerticalSlice.dll
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.pdb
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\DemoVerticalSlice.genruntimeconfig.cache
+E:\WorkSpaceAD\YOUTUBE\138 VERTICAL SLICE NET 9\Subir git\WebApiNLayers\DemoVerticalSlice\obj\Debug\net9.0\ref\DemoVerticalSlice.dll
